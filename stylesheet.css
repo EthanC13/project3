@@ -1,0 +1,74 @@
+
+div.container {
+    width: 100%;
+    border: 1px solid black;
+}
+
+header, footer {
+background-image: url("http://www.ancientcivilizationslist.com/wp-content/uploads/2016/03/6-Mycenaean-ancient-civilizations-of-greek.jpg");
+   background-repeat: no-repeat;
+   background-size: 90% 40%;
+   background-attachment: fixed;
+   background-position: top, center;
+   padding: 1.0em;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    overflow: hidden;
+}
+
+p {
+	font-family: Georgia;
+}
+
+h2{
+	text-align: center;
+	font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #996600;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
